@@ -5,4 +5,3 @@ Adjunto un enlace donde pueden ingresar a mi repositorio de ***GitHub*** llamado
 - 📚 Libros en _PDF_ que pueden servir de apoyo.
 
 **Enlace** 📥:
-https://github.com/Louis-Du/Ejercicios_python
